@@ -17,5 +17,5 @@
 			"Utils\\": "src/utils/"
 		}
 	},
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
