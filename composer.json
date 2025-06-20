@@ -1,0 +1,21 @@
+{
+    "name": "stormkoo/mysatis",
+    "description": "my library for test",
+    "type": "library",
+    "require": {
+        "php": "8.2.13"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "x.j.hu",
+            "email": "stormkoo@hotmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Utils\\": "src/utils/"
+		}
+	},
+    "minimum-stability": "dev"
+}
